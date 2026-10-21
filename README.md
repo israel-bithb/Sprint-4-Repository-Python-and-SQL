@@ -1,2 +1,2 @@
 # Sprint-4-Repository-Python-and-SQL
-Googl Colab Project
+Google Colab Project
